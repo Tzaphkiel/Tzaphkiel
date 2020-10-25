@@ -90,6 +90,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+ref: 
+- https://www.youtube.com/watch?v=ECuqb5Tv9qI
+- https://github.com/anuraghazra/github-readme-stats#top-languages-card
+- https://github.com/marketplace/actions/blog-post-workflow
+- https://github.com/codeSTACKr/codeSTACKr/blob/master/README.md
+- https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/master/README.md
+- https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme#github-actions-
+- 
+
+
 -->
 
 
