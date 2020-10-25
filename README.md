@@ -1,9 +1,12 @@
-# Welcome to my Github
 
-People call me **Sébastien** ([Tzaphkiel][github]).  
+Just call me **Sébastien** ([Tzaphkiel][github])  
 _I'm an eternal curious learner, good observer, friendly developer and seeker of time (& sleep)._
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/leroysebastien?label=Follow%20me&style=plastic&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTzaphkiel&screen_name=leroysebastien)
+
+
+<br />
+<br />
 
 
 ## What I currently do
@@ -12,13 +15,20 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 - 🤔 looking for which platform and framework (if any) I should use for my next application
 - 🤔 looking for something interresting to crack my head on
 
+<br />
+<br />
+
+
 ## About me
 - ⚡ Fun fact: I create **leather items**
 - ⚡ Fun fact: I **renovate** a farm (electricity, heating, ventilation and water)
 - ⚡ Fun fact: I'm a **biker** (chopper kind)
 - ⚡ Fun fact: I do not have time for a new hobby... yet I recently got myself a **Barista espresso machine**
 
-### Connect with me:
+<br />
+<br />
+
+## Connect with me:
 <p align="left">
 <a href="https://dev.to/tzaphkiel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tzaphkiel" height="30" width="40" /></a>
 <a href="https://twitter.com/leroysebastien" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="leroysebastien" height="30" width="40" /></a>
@@ -32,8 +42,10 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
 
+<br />
+<br />
 
-### What I dab in
+## What I dab in
 <p align="left"> 
 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
@@ -93,22 +105,22 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 <a href="" target="_blank"> <img align="left" alt="GitHub" width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a>
 <a href="" target="_blank"> <img align="left" alt="Terminal" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> </a>
 <a href="" target="_blank"> <img align="left" alt="VIM" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" /> </a>
-
 </p>
 
-
+<!--
 
 <br />
 <br />
 
-### 📕 Latest Blog Posts
-
+## 📕 Latest Blog Posts
+-->
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
 
 <br />
 <br />
 
+## Some stats
   <a href="https://github.com/tzaphkiel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tzaphkiel&count_private=true&show_icons=true&theme=gruvbox" />
   </a>
