@@ -1,23 +1,28 @@
 
-Just call me **Sébastien** ([Tzaphkiel][github])  
+Just call me **Sébastien** ([Tzaphkiel][github])
+
 _I'm an eternal curious learner, good observer, friendly developer and seeker of time (& sleep)._
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/leroysebastien?label=Follow%20me&style=plastic&logo=twitter)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FTzaphkiel&screen_name=leroysebastien)
 
-
 <br />
-<br />
-
 
 ## What I currently do
 - 🔭 working on a Hadoop platform with HBASE and Kafka
 - 🔭 working on CLI automation for Kafka using Bash and Ansible
-- 🤔 looking for which platform and framework (if any) I should use for my next application
 - 🤔 looking for something interresting to crack my head on
+- 🤔 looking for which platform and framework (if any) I should use for my next application
+  - Currently tempted by  (with Vercel)
+    - nest.js (backend)
+    - Next.js (frontend)
+    - Nuxt (Vue.js frontend)
+
+<!-- 
+- https://nodesource.com/blog/next-nuxt-nest/ 
+- https://vercel.com/guides
+-->
 
 <br />
-<br />
-
 
 ## About me
 - ⚡ Fun fact: I create **leather items**
@@ -25,7 +30,6 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 - ⚡ Fun fact: I'm a **biker** (chopper kind)
 - ⚡ Fun fact: I do not have time for a new hobby... yet I recently got myself a **Barista espresso machine**
 
-<br />
 <br />
 
 ## Connect with me:
@@ -42,7 +46,6 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 -->
 
-<br />
 <br />
 
 ## What I dab in
@@ -117,7 +120,6 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
 
-<br />
 <br />
 
 ## Some stats
