@@ -123,12 +123,21 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 <br />
 
 ## Some stats
+
   <a href="https://github.com/tzaphkiel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=tzaphkiel&count_private=true&show_icons=true&theme=gruvbox" />
   </a>
   <a href="https://github.com/tzaphkiel/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tzaphkiel&langs_count=8&layout=compact&theme=gruvbox" />
   </a>
+
+<br />
+<br />
+
+<a href="https://sourcerer.io/tzaphkiel" target="_blank"> <img src="https://sourcerer.io/icons/logo-bright.svg" alt="Sourcerer profile" width="40" height="40"/> </a> 
+
+<br />
+<br />
 
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
@@ -139,6 +148,7 @@ _I'm an eternal curious learner, good observer, friendly developer and seeker of
 [twitter]: https://twitter.com/leroysebastien
 [linkedin]: https://linkedin.com/in/leroysebastien/
 [github]: https://github.com/Tzaphkiel
+[sourcerer]: https://sourcerer.io/tzaphkiel
 <!--
 **Tzaphkiel/Tzaphkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
